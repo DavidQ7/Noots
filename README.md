@@ -2,10 +2,6 @@
 
 Welcome to X Notes! Your ultimate note-taking solution. Create, edit, and organize your notes effortlessly.
 
-## How to Use 🌐
-
-Visit our website at [xnotes.io](https://xnotes.io) to get started right away!
-
 ## How to Install and Run Locally 🏠
 
 ### Angular Web 🅰️
